@@ -7,6 +7,8 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 See `complete` branch for an example.
 
 My favorite quote:
-> We didn't set out to be super heroes. But sometimes life doesn't go the way you planned.
+> We didn't set out to be superheroes. But sometimes life doesn't go the way you planned.
+
+-Hiro Hamada, _Big Hero 6_
 
 More information [here](http://www.imdb.com/title/tt2245084/) about where the quote is from
